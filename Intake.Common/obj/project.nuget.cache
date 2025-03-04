@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NX/3geM1xNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tevfik Ekici\\source\\repos\\Intake.Common\\Intake.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\amazon.core\\0.34.0\\amazon.core.0.34.0.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\amazon.s3\\0.34.0\\amazon.s3.0.34.0.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.409.41\\awssdk.cloudwatchlogs.3.7.409.41.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\awssdk.core\\3.7.402.11\\awssdk.core.3.7.402.11.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\awssdk.s3\\3.7.415.10\\awssdk.s3.3.7.415.10.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\carbon.storage\\3.15.0\\carbon.storage.3.15.0.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.2\\microsoft.extensions.configuration.9.0.2.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.2\\microsoft.extensions.configuration.environmentvariables.9.0.2.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\serilog.sinks.awscloudwatch\\4.3.37\\serilog.sinks.awscloudwatch.4.3.37.nupkg.sha512",
+    "C:\\Users\\Tevfik Ekici\\.nuget\\packages\\serilog.sinks.periodicbatching\\3.1.0\\serilog.sinks.periodicbatching.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

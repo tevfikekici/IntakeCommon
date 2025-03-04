@@ -1,0 +1,14 @@
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.csproj.AssemblyReference.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.Properties.ExceptionMessages.resources
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.csproj.GenerateResource.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.AssemblyInfoInputs.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.AssemblyInfo.cs
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\bin\Debug\net8.0\Intake.Common.deps.json
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\bin\Debug\net8.0\Intake.Common.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\bin\Debug\net8.0\Intake.Common.pdb
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\refint\Intake.Common.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\Intake.Common.pdb
+C:\Users\Tevfik Ekici\source\repos\Intake.Common\obj\Debug\net8.0\ref\Intake.Common.dll
